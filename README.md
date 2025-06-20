@@ -35,7 +35,7 @@ Since this is an Android application using Jetpack Compose and Firebase, install
 1.  **Set up Android Studio:** Download and install the latest version of Android Studio.
 2.  **Clone the repository:**
     ```bash
-    git clone https://github.com/The-WarLog/HealthMetricPlus-Final
+    git clone https://github.com/The-WarLog/HealthMetricPlus-Core
     ```
 3.  **Open the project in Android Studio:**  Navigate to the cloned directory and open the project in Android Studio.
 4.  **Configure Firebase:**
