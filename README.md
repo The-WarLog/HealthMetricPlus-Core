@@ -1,5 +1,5 @@
 ```markdown
-# HealthMetricPlus-Final
+# HealthMetricPlus
 
 ## Description
 
