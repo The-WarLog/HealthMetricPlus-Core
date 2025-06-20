@@ -40,7 +40,7 @@ fun HealthmetricDialogBox(
 
 @Preview
 @Composable
-private fun MeasureMateDialogPreview() {
+private fun HealthMetricDialogPreview() {
     HealthmetricDialogBox(
         isOpen = true,
         title = "Login anonymously?",
